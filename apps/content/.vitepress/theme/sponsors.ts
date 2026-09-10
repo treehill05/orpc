@@ -270,6 +270,18 @@ export const sponsors: JSONSponsor[] = [
     sidebarLogo: 'https://images.opencollective.com/guest-ac41de3b/avatar/460.png',
   },
   {
+    name: 'Stefan Smiljkovic',
+    login: 'shtefcs',
+    avatar: 'https://avatars.githubusercontent.com/u/1984909?u=b7bf5bc40ed49df3c22f69d2da7b8d78709c49ed&v=4',
+    amount: 10,
+    link: 'https://automatio.ai/?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
+    createdAt: '2026-09-08T14:51:48Z',
+    tierTitle: 'Sponsor',
+    tierLevel: 2,
+    sidebarSize: 'none',
+    sidebarLogo: 'https://avatars.githubusercontent.com/u/1984909?u=b7bf5bc40ed49df3c22f69d2da7b8d78709c49ed&v=4',
+  },
+  {
     name: 'David Walsh',
     login: 'rhinodavid',
     avatar: 'https://avatars.githubusercontent.com/u/5778036?u=b5521f07d2f88c3db2a0dae62b5f2f8357214af0&v=4',
