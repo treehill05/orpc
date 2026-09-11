@@ -30,6 +30,18 @@ export const sponsors: JSONSponsor[] = [
     sidebarLogo: 'https://avatars.githubusercontent.com/u/97035603?v=4',
   },
   {
+    name: 'Guillermo Rauch',
+    login: 'rauchg',
+    avatar: 'https://avatars.githubusercontent.com/u/13041?u=1ee8d111657cdd02ff6d253df00978d17ee6d722&v=4',
+    amount: 1000,
+    link: 'http://twitter.com/rauchg?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
+    createdAt: '2026-09-09T19:11:39Z',
+    tierTitle: 'Special Sponsor',
+    tierLevel: 5,
+    sidebarSize: 'none',
+    sidebarLogo: 'https://avatars.githubusercontent.com/u/13041?u=1ee8d111657cdd02ff6d253df00978d17ee6d722&v=4',
+  },
+  {
     name: 'Yuzu',
     login: 'yuzu-health',
     avatar: 'https://avatars.githubusercontent.com/u/102488956?v=4',
