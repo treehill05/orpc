@@ -730,7 +730,7 @@ export const sponsors: JSONSponsor[] = [
     login: 'ripgrim',
     avatar: 'https://avatars.githubusercontent.com/u/75869731?u=b17c42ec2309552fdb822a86b25a2f99146a4d72&v=4',
     amount: -1,
-    link: 'https://tripwire.sh/?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
+    link: 'https://github.com/ripgrim?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
     createdAt: '2025-10-11T03:34:04Z',
     tierTitle: 'Past Sponsor',
     tierLevel: 0,
