@@ -66,6 +66,18 @@ export const sponsors: JSONSponsor[] = [
     sidebarLogo: 'https://github.com/MisskeyIO.png',
   },
   {
+    name: 'Nexa',
+    login: 'nexa-ca',
+    avatar: 'https://avatars.githubusercontent.com/u/199146462?v=4',
+    amount: 200,
+    link: 'https://github.com/nexa-ca?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
+    createdAt: '2026-09-21T17:06:10Z',
+    tierTitle: 'Premium Sponsor',
+    tierLevel: 4,
+    sidebarSize: 'none',
+    sidebarLogo: 'https://avatars.githubusercontent.com/u/199146462?v=4',
+  },
+  {
     name: 'LN Markets',
     login: 'ln-markets',
     avatar: 'https://avatars.githubusercontent.com/u/70597625?v=4',
