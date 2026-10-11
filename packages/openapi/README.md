@@ -100,7 +100,6 @@ If you find oRPC valuable and would like to support its development, you can do 
 <table>
   <tr>
    <td align="center"><a href="https://screenshotone.com/?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="ScreenshotOne.com"><img src="https://avatars.githubusercontent.com/u/97035603?v=4" width="279" alt="ScreenshotOne.com"/><br />ScreenshotOne.com</a></td>
-   <td align="center"><a href="http://twitter.com/rauchg?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Guillermo Rauch"><img src="https://avatars.githubusercontent.com/u/13041?u=1ee8d111657cdd02ff6d253df00978d17ee6d722&amp;v=4" width="279" alt="Guillermo Rauch"/><br />Guillermo Rauch</a></td>
   </tr>
 </table>
 
@@ -221,6 +220,7 @@ If you find oRPC valuable and would like to support its development, you can do 
   <a href="https://tkaczyk.dev/?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Adam Tkaczyk"><img src="https://avatars.githubusercontent.com/u/39050595?u=a58ca6042a6950e94e6e92442db76ef584279bc0&amp;v=4" width="32" height="32" alt="Adam Tkaczyk" /></a>
   <a href="https://plancraft.com/?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="plancraft"><img src="https://avatars.githubusercontent.com/u/46482287?v=4" width="32" height="32" alt="plancraft" /></a>
   <a href="https://github.com/Nic13Gamer?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Nicholas"><img src="https://avatars.githubusercontent.com/u/54724556?u=56a7ab430ce7a80d648ab6eba051d454a818ed0b&amp;v=4" width="32" height="32" alt="Nicholas" /></a>
+  <a href="http://twitter.com/rauchg?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Guillermo Rauch"><img src="https://avatars.githubusercontent.com/u/13041?u=1ee8d111657cdd02ff6d253df00978d17ee6d722&amp;v=4" width="32" height="32" alt="Guillermo Rauch" /></a>
   <a href="https://opencollective.com/laduni?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Laduni"><img src="https://images.opencollective.com/laduni/avatar/460.png" width="32" height="32" alt="Laduni" /></a>
 </p>
 
