@@ -24,9 +24,6 @@ If you find oRPC valuable and would like to support its development, you can do 
    <td align="center"><a href="https://yuzu.health/careers?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Yuzu"><img src="https://avatars.githubusercontent.com/u/102488956?v=4" width="279" alt="Yuzu"/><br />Yuzu</a></td>
    <td align="center"><a href="https://misskey.io/?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="MisskeyHQ"><img src="https://github.com/MisskeyIO.png" width="279" alt="MisskeyHQ"/><br />MisskeyHQ</a></td>
   </tr>
-  <tr>
-   <td align="center"><a href="https://github.com/nexa-ca?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Nexa"><img src="https://avatars.githubusercontent.com/u/199146462?v=4" width="279" alt="Nexa"/><br />Nexa</a></td>
-  </tr>
 </table>
 
 ### Organization Sponsor
@@ -141,5 +138,6 @@ If you find oRPC valuable and would like to support its development, you can do 
   <a href="https://plancraft.com/?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="plancraft"><img src="https://avatars.githubusercontent.com/u/46482287?v=4" width="32" height="32" alt="plancraft" /></a>
   <a href="https://github.com/Nic13Gamer?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Nicholas"><img src="https://avatars.githubusercontent.com/u/54724556?u=56a7ab430ce7a80d648ab6eba051d454a818ed0b&amp;v=4" width="32" height="32" alt="Nicholas" /></a>
   <a href="http://twitter.com/rauchg?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Guillermo Rauch"><img src="https://avatars.githubusercontent.com/u/13041?u=1ee8d111657cdd02ff6d253df00978d17ee6d722&amp;v=4" width="32" height="32" alt="Guillermo Rauch" /></a>
+  <a href="https://github.com/nexa-ca?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Nexa"><img src="https://avatars.githubusercontent.com/u/199146462?v=4" width="32" height="32" alt="Nexa" /></a>
   <a href="https://opencollective.com/laduni?ref=orpc&amp;utm_source=middleapi&amp;utm_medium=sponsor" target="_blank" rel="noopener" title="Laduni"><img src="https://images.opencollective.com/laduni/avatar/460.png" width="32" height="32" alt="Laduni" /></a>
 </p>
