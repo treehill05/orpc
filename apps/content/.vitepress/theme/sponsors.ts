@@ -594,7 +594,7 @@ export const sponsors: JSONSponsor[] = [
     sidebarLogo: 'https://avatars.githubusercontent.com/u/66196314?u=c5c2b0327b26606c2efcfaf17046ab18c3d25c57&v=4',
   },
   {
-    name: 'shr.ink oü',
+    name: 'shr-ink',
     login: 'shr-ink',
     avatar: 'https://avatars.githubusercontent.com/u/139700438?v=4',
     amount: -1,
