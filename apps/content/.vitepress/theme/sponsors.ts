@@ -728,14 +728,14 @@ export const sponsors: JSONSponsor[] = [
   {
     name: 'grim',
     login: 'ripgrim',
-    avatar: 'https://avatars.githubusercontent.com/u/75869731?u=b17c42ec2309552fdb822a86b25a2f99146a4d72&v=4',
+    avatar: 'https://avatars.githubusercontent.com/u/75869731?u=cc07a1b835267771bc03954ea0bb1446fe1208b5&v=4',
     amount: -1,
     link: 'https://github.com/ripgrim?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
     createdAt: '2025-10-11T03:34:04Z',
     tierTitle: 'Past Sponsor',
     tierLevel: 0,
     sidebarSize: 'none',
-    sidebarLogo: 'https://avatars.githubusercontent.com/u/75869731?u=b17c42ec2309552fdb822a86b25a2f99146a4d72&v=4',
+    sidebarLogo: 'https://avatars.githubusercontent.com/u/75869731?u=cc07a1b835267771bc03954ea0bb1446fe1208b5&v=4',
   },
   {
     name: 'Nelson Lai',
