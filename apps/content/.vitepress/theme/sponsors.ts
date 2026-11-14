@@ -486,6 +486,18 @@ export const sponsors: JSONSponsor[] = [
     sidebarLogo: 'https://avatars.githubusercontent.com/u/19531087?u=6385741eb91d200b8c513ec6045482e301767ca6&v=4',
   },
   {
+    name: 'UsageRail',
+    login: 'usagerail',
+    avatar: 'https://avatars.githubusercontent.com/u/347653714?v=4',
+    amount: 5,
+    link: 'https://usagerail.com/?ref=orpc&utm_source=middleapi&utm_medium=sponsor',
+    createdAt: '2026-11-12T15:20:24Z',
+    tierTitle: 'Backer',
+    tierLevel: 1,
+    sidebarSize: 'none',
+    sidebarLogo: 'https://avatars.githubusercontent.com/u/347653714?v=4',
+  },
+  {
     name: 'Alex',
     login: 'piscis',
     avatar: 'https://avatars.githubusercontent.com/u/326163?u=b245f368bd940cf51d08c0b6bf55f8257f359437&v=4',
